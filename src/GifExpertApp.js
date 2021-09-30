@@ -5,7 +5,7 @@ import { GifGrid } from './components/GifGrid';
 export const GifExpertApp = () => {
 
 
-    const [categories, setCategories] = useState(['ecuador']);
+    const [categories, setCategories] = useState(['developer']);
 
     return (
         <>
